@@ -1,5 +1,5 @@
 # KFC-yummy-basket
-YUMMY
+YUMMY\n
 Really Yummyy
-Try It nOOOOOOOw
-OR ELSE!
+\nTry It nOOOOOOOw
+\nOR ELSE!
