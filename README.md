@@ -1,5 +1,4 @@
 this is not a title！
-# W2J's WEIRD WEBSITE
 weird
 # Really Weird
 I don't know how did you know here
